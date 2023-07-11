@@ -8,7 +8,7 @@ setup(
   author = 'Smart_Hacker',                   # Type in your name
   author_email = 'sarthakmishra2100@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/IndentationOrELSE',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/IndentationOrELSE/SmartHackerTools/archive/refs/tags/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/IndentationOrELSE/SmartHackerTools/archive/refs/tags/v_001.tar.gz',    # I explain this later on
   keywords = ['Tools', 'Simple', 'Beginner'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
